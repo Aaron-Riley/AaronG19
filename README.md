@@ -9,7 +9,7 @@ AaronG19/AaronG19 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://img.shields.io/badge/Os-MacoS-informational?style=flat&logo=apple&logoColor=white) 
+![](https://img.shields.io/badge/Os-Windows-informational?style=flat&logo=windows&logoColor=white) 
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=white)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white)
