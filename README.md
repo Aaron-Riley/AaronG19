@@ -11,15 +11,11 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://img.shields.io/badge/Os-Windows-informational?style=flat&logo=windows&logoColor=white) 
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=white)
-<!---[](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white)--->
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white)
 ![](https://img.shields.io/badge/Code-Scss-informational?style=flat&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white)
 ![](https://img.shields.io/badge/Tools-MYSQL-informational?style=flat&logo=MYSQL&logoColor=white)
 ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=Figma&logoColor=white)
-![](https://img.shields.io/badge/AWS-informational?style=flat&logo=AWS&logoColor=white)
-
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
 ## Stats📈 
 <p align="center">
